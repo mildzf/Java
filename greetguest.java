@@ -1,8 +1,8 @@
 /**
- * The KitchenHelper class contains a simple method for greeting a guest
+ * The GreetGuest class contains a simple method for greeting a guest
  * based on their name and the time of day.
  */
-public class KitchenHelper {
+public class GreetGuest {
     public static void greetGuest(String name, String timeOfDay)
     {
         String message = "";
